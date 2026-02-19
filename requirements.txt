@@ -1,0 +1,17 @@
+# Core Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# MySQL Database Connection
+mysql-connector-python==8.2.0
+pymysql==1.1.0
+sqlalchemy==2.0.23
+
+# Power BI Integration
+pyodbc==5.1.0
+openpyxl==3.1.2
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+jupyterlab==4.0.9
+ipython==8.18.1
